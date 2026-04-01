@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ═══ Primary Palette ═══ -->
+    <color name="primary">#FF6C63FF</color>          <!-- Vibrant indigo-purple -->
+    <color name="primary_dark">#FF5A52E0</color>
+    <color name="primary_light">#FF8B83FF</color>
+
+    <!-- ═══ Accent / Secondary ═══ -->
+    <color name="accent">#FF00E5A0</color>            <!-- Mint green -->
+    <color name="accent_dark">#FF00C98A</color>
+
+    <!-- ═══ Background (Dark Theme) ═══ -->
+    <color name="bg_dark">#FF0D0D1A</color>           <!-- Near-black with blue tint -->
+    <color name="bg_card">#FF1A1A2E</color>           <!-- Card surface -->
+    <color name="bg_card_elevated">#FF252540</color>  <!-- Elevated card -->
+
+    <!-- ═══ Text ═══ -->
+    <color name="text_primary">#FFFAFAFA</color>
+    <color name="text_secondary">#CCAAAACC</color>
+    <color name="text_hint">#88888899</color>
+
+    <!-- ═══ Status Colors ═══ -->
+    <color name="status_active">#FF00E676</color>     <!-- Green — active -->
+    <color name="status_paused">#FFFF5252</color>     <!-- Red — paused -->
+    <color name="status_warning">#FFFFAB40</color>    <!-- Orange — warning -->
+
+    <!-- ═══ Cursor States ═══ -->
+    <color name="cursor_idle">#CC6C63FF</color>       <!-- Purple — idle -->
+    <color name="cursor_active">#CC00E5A0</color>     <!-- Green — finger pointer active -->
+    <color name="cursor_longpress">#CCFF5252</color>  <!-- Red — long press -->
+    <color name="cursor_border">#DDFFFFFF</color>     <!-- White border ring -->
+</resources>

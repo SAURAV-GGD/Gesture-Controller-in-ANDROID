@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesture Control</string>
+    <string name="accessibility_service_description">
+        Gesture Control uses your front camera to detect hand gestures
+        and control your phone without touching the screen.
+
+        Supported gestures:
+        • Fist → Pause / Resume gesture control
+        • Index finger → Move cursor (Finger Mouse)
+        • Index + Middle up → Scroll up
+        • Middle up, Index curled → Scroll down
+        • Spread fingers → Zoom in
+        • Close fingers → Zoom out
+        • Thumb + Middle hold → Long press
+    </string>
+</resources>
